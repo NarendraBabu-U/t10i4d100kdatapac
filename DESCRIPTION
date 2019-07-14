@@ -1,0 +1,10 @@
+Package: t10i4d100kdatapac
+Type: Package
+Title: T10I4D100k Data Package
+Version: 0.1.0
+Author: Narendra Babu Unnam
+Maintainer: Narendra Babu Unnam <narendrababu.um@gmail.com>
+Description: desc
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
